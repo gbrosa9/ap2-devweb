@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Condensed:wght@300;400&family=Shantell+Sans&family=Vina+Sans&display=swap');
+
+
+.container {
+    color: aliceblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 15%;
+    padding-left: 40%;
+    
+}
+
+p {
+    padding-left: 1em;
+}
+
+body {
+    background-color: black;
+    
+}
+
+.imgbotafogo {
+    padding-left: 3em;
+    width: 15%;
+    height: 10%;
+}
+
+#formulario {
+    padding-left: 1.5em;
+}
